@@ -81,7 +81,7 @@
                 <div class="bg-white py-2 collapse-inner rounded">
                     <h6 class="collapse-header">รายการสินค้า:</h6>
                     <a class="collapse-item" href="login.html">จัดการสินค้า</a>
-                    <a class="collapse-item" href="register.html">ประเภเทสินค้า</a>
+                    <a class="collapse-item" href="../admin/categories.php">ประเภเทสินค้า</a>
                 </div>
             </div>
         </li>

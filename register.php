@@ -140,7 +140,7 @@ $cities = $city->getCities();
                             text: response
                         }).then((result) => {
                             if (result.isConfirmed) {
-                                window.location.href = "index.php";
+                                window.location.reload();
                             }
                         });
                     },

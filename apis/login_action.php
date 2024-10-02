@@ -1,6 +1,6 @@
 <?php
 session_start();
-include_once("../config/database.php");
+include_once("../backend/database.php");
 include_once("../backend/user.php");
 
 $database  = new Database();
