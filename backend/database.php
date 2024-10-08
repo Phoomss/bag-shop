@@ -2,6 +2,7 @@
 class Database {
     private $host = "localhost";
     private $db_name = "e_commerce";
+    // private $db_name = "upload_php";
     private $username = "root";
     private $password = "";
     public $conn;

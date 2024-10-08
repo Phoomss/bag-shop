@@ -14,7 +14,7 @@
 
         <!-- Nav Item - Dashboard -->
         <li class="nav-item active">
-            <a class="nav-link" href="index.html">
+            <a class="nav-link" href="../admin/admin_dashboard.php">
                 <i class="fas fa-fw fa-tachometer-alt"></i>
                 <span>Dashboard</span></a>
         </li>
@@ -80,7 +80,7 @@
             <div id="collapsProduct" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
                 <div class="bg-white py-2 collapse-inner rounded">
                     <h6 class="collapse-header">รายการสินค้า:</h6>
-                    <a class="collapse-item" href="login.html">จัดการสินค้า</a>
+                    <a class="collapse-item" href="../admin/products.php">จัดการสินค้า</a>
                     <a class="collapse-item" href="../admin/categories.php">ประเภเทสินค้า</a>
                 </div>
             </div>
